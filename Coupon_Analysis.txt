@@ -1,0 +1,21 @@
+Coupon Acceptance Rate — Key Takeaways
+
+Overall pattern: Acceptance is notably higher under favorable conditions and among segments with greater bar affinity and older age.
+
+Weather effect: Decisions are usually made when it’s sunny. Clear weather correlates with a higher likelihood of accepting the coupon compared to overcast or rainy conditions.
+
+Time pressure: Acceptance is more likely when the driver is not in a hurry. Being rushed suppresses uptake; relaxed contexts improve it.
+
+Bar affinity & age:
+
+Age > 25 shows higher acceptance than ≤ 25.
+
+More frequent bar-goers (e.g., >3 visits/month) accept at higher rates than light/rare visitors (≤3/month).
+
+Practical implications
+
+Timing & targeting: Prioritize delivery during sunny periods and non-rush contexts (e.g., outside commute windows).
+
+Audience focus: Emphasize offers to 25+ drivers and frequent bar-goers; consider tailored messaging or stronger incentives for younger or infrequent segments.
+
+Experimentation: A/B test creative and timing for “not in a hurry” contexts (e.g., weekend afternoons) to validate lift.
